@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1483305316179,686,565 /,200,OK,KIJIJI Token Setup 1-1,text,true,,17241,1,1,386,0
+1483305316914,315,567 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,301,0
+1483305317231,271,568 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9486,1,1,139,0
+1483305317502,126,571 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,126,0
+1483305317630,342,573 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,446,1,1,0,0
+1483305317974,248,570 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,248,0
+1483305318224,396,572 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1856,1,1,396,0
+1483305318623,271,574 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,577,1,1,0,0
+1483305318896,331,579 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,331,0
+1483305319228,257,580 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,1097,1,1,210,0
+1483305319486,916,581 /t-login.html,200,OK,KIJIJI Token Setup 1-1,text,true,,10849,1,1,910,0
+1483305320403,2083,582 KIJIJI Login with username and password,200,OK,KIJIJI Token Setup 1-1,text,true,,97409,1,1,367,0
+1483305322489,1546,583 /,200,OK,KIJIJI Token Setup 1-1,text,true,,96805,1,1,605,0
+1483305324036,275,585 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,949,1,1,275,0
+1483305324313,481,586 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9611,1,1,481,0
+1483305324795,158,588 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,158,0
+1483305324954,121,595 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483305325076,258,596 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483305325335,234,594 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1608,1,1,234,0
+1483305325573,170,597 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,170,0
+1483305325744,354,598 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483305326099,165,587 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,165,0
+1483305326265,125,589 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,125,0
+1483305326391,283,600 /j-token-gen.json,200,OK,KIJIJI Token Setup 1-1,,true,,269,1,1,0,0
+1483305326675,127,602 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,127,0
+1483305326803,363,601 /h-mississauga-peel-region/1700276,200,OK,KIJIJI Token Setup 1-1,text,true,,17334,1,1,231,0
+1483305327167,291,603 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,943,1,1,277,0
+1483305327459,272,604 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9572,1,1,148,0
+1483305327732,134,605 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1559,1,1,133,0
+1483305327867,173,608 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,173,0
+1483305328041,141,610 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,141,0
+1483305328183,141,609 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,141,0
+1483305328325,190,611 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483305328516,132,612 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483305328649,84,614 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483305328734,123,613 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,123,0
+1483306117639,844,565 /,200,OK,KIJIJI Token Setup 1-1,text,true,,17240,1,1,607,0
+1483306117639,844,565 /,200,OK,KIJIJI Token Setup 1-1,text,true,,17240,1,1,607,0
+1483306118558,310,567 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,943,1,1,303,0
+1483306118875,275,568 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9794,1,1,155,0
+1483306119154,150,571 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,150,0
+1483306119309,398,573 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,446,1,1,0,0
+1483306119710,403,570 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,403,0
+1483306120116,245,572 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1850,1,1,245,0
+1483306120371,206,574 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,577,1,1,0,0
+1483306120588,260,579 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,260,0
+1483306120850,210,580 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,1097,1,1,172,0
+1483306121065,1151,581 /t-login.html,200,OK,KIJIJI Token Setup 1-1,text,true,,10850,1,1,1148,0
+1483306122218,1734,582 KIJIJI Login with username and password,200,OK,KIJIJI Token Setup 1-1,text,true,,97410,1,1,345,0
+1483306123956,1409,583 /,200,OK,KIJIJI Token Setup 1-1,text,true,,96803,1,1,512,0
+1483306125368,3248,585 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,3240,0
+1483306128620,656,586 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9586,1,1,656,0
+1483306129278,154,588 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,154,0
+1483306129435,153,595 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306129591,159,596 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306129754,149,594 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1604,1,1,149,0
+1483306129906,125,597 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,125,0
+1483306130034,97,598 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306130133,142,587 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,142,0
+1483306130278,853,589 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,853,0
+1483306131133,290,600 /j-token-gen.json,200,OK,KIJIJI Token Setup 1-1,,true,,269,1,1,0,0
+1483306131425,141,602 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,141,0
+1483306131568,357,601 /h-mississauga-peel-region/1700276,200,OK,KIJIJI Token Setup 1-1,text,true,,17331,1,1,207,0
+1483306131926,252,603 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,236,0
+1483306132181,290,604 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9578,1,1,149,0
+1483306132472,159,605 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1551,1,1,158,0
+1483306132633,162,608 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,162,0
+1483306132797,143,610 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,143,0
+1483306132941,149,609 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,149,0
+1483306133092,116,611 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306133209,140,612 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306133351,73,614 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306133427,156,613 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,156,0
+1483306118558,310,567 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,943,1,1,303,0
+1483306118875,275,568 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9794,1,1,155,0
+1483306119154,150,571 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,150,0
+1483306119309,398,573 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,446,1,1,0,0
+1483306119710,403,570 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,403,0
+1483306120116,245,572 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1850,1,1,245,0
+1483306120371,206,574 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,577,1,1,0,0
+1483306120588,260,579 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,260,0
+1483306120850,210,580 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,1097,1,1,172,0
+1483306121065,1151,581 /t-login.html,200,OK,KIJIJI Token Setup 1-1,text,true,,10850,1,1,1148,0
+1483306122218,1734,582 KIJIJI Login with username and password,200,OK,KIJIJI Token Setup 1-1,text,true,,97410,1,1,345,0
+1483306123956,1409,583 /,200,OK,KIJIJI Token Setup 1-1,text,true,,96803,1,1,512,0
+1483306125368,3248,585 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,3240,0
+1483306128620,656,586 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9586,1,1,656,0
+1483306129278,154,588 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,154,0
+1483306129435,153,595 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306129591,159,596 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306129754,149,594 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1604,1,1,149,0
+1483306129906,125,597 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,125,0
+1483306130034,97,598 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306130133,142,587 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,142,0
+1483306130278,853,589 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,853,0
+1483306131133,290,600 /j-token-gen.json,200,OK,KIJIJI Token Setup 1-1,,true,,269,1,1,0,0
+1483306131425,141,602 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,141,0
+1483306131568,357,601 /h-mississauga-peel-region/1700276,200,OK,KIJIJI Token Setup 1-1,text,true,,17331,1,1,207,0
+1483306131926,252,603 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,236,0
+1483306132181,290,604 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9578,1,1,149,0
+1483306132472,159,605 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1551,1,1,158,0
+1483306132633,162,608 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,162,0
+1483306132797,143,610 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,143,0
+1483306132941,149,609 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,149,0
+1483306133092,116,611 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306133209,140,612 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306133351,73,614 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306133427,156,613 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,156,0
+1483306220677,615,565 /,200,OK,KIJIJI Token Setup 1-1,text,true,,17228,1,1,379,0
+1483306220677,615,565 /,200,OK,KIJIJI Token Setup 1-1,text,true,,17228,1,1,379,0
+1483306221340,3464,567 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,942,1,1,3452,0
+1483306224806,422,568 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9669,1,1,422,0
+1483306225229,141,571 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,141,0
+1483306225371,268,573 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,446,1,1,0,0
+1483306225641,136,570 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,136,0
+1483306225778,139,572 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1846,1,1,139,0
+1483306225919,166,574 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,577,1,1,0,0
+1483306226087,138,579 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,138,0
+1483306226228,164,580 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,1097,1,1,130,0
+1483306226393,794,581 /t-login.html,200,OK,KIJIJI Token Setup 1-1,text,true,,10839,1,1,779,0
+1483306227192,1856,582 KIJIJI Login with username and password,200,OK,KIJIJI Token Setup 1-1,text,true,,97387,1,1,367,0
+1483306229051,1384,583 /,200,OK,KIJIJI Token Setup 1-1,text,true,,96784,1,1,518,0
+1483306230437,284,585 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,947,1,1,270,0
+1483306230723,446,586 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9490,1,1,446,0
+1483306231170,152,588 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,152,0
+1483306231324,148,595 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306231473,361,596 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306231842,3154,594 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1612,1,1,3154,0
+1483306235000,139,597 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,138,0
+1483306235140,99,598 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306235240,322,587 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,322,0
+1483306235563,143,589 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,143,0
+1483306235707,139,600 /j-token-gen.json,200,OK,KIJIJI Token Setup 1-1,,true,,269,1,1,0,0
+1483306235848,133,602 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,133,0
+1483306235982,360,601 /h-mississauga-peel-region/1700276,200,OK,KIJIJI Token Setup 1-1,text,true,,17325,1,1,201,0
+1483306236343,299,603 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,285,0
+1483306236644,271,604 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9558,1,1,150,0
+1483306236916,143,605 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1561,1,1,143,0
+1483306237061,157,608 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,157,0
+1483306237219,142,610 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,142,0
+1483306237363,363,609 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,363,0
+1483306237728,131,611 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306237861,196,612 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306238058,75,614 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306238135,155,613 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,155,0
+1483306221340,3464,567 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,942,1,1,3452,0
+1483306224806,422,568 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9669,1,1,422,0
+1483306225229,141,571 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,141,0
+1483306225371,268,573 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,446,1,1,0,0
+1483306225641,136,570 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,136,0
+1483306225778,139,572 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1846,1,1,139,0
+1483306225919,166,574 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,577,1,1,0,0
+1483306226087,138,579 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,138,0
+1483306226228,164,580 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,1097,1,1,130,0
+1483306226393,794,581 /t-login.html,200,OK,KIJIJI Token Setup 1-1,text,true,,10839,1,1,779,0
+1483306227192,1856,582 KIJIJI Login with username and password,200,OK,KIJIJI Token Setup 1-1,text,true,,97387,1,1,367,0
+1483306229051,1384,583 /,200,OK,KIJIJI Token Setup 1-1,text,true,,96784,1,1,518,0
+1483306230437,284,585 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,947,1,1,270,0
+1483306230723,446,586 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9490,1,1,446,0
+1483306231170,152,588 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,152,0
+1483306231324,148,595 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306231473,361,596 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306231842,3154,594 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1612,1,1,3154,0
+1483306235000,139,597 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,138,0
+1483306235140,99,598 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306235240,322,587 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,322,0
+1483306235563,143,589 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,143,0
+1483306235707,139,600 /j-token-gen.json,200,OK,KIJIJI Token Setup 1-1,,true,,269,1,1,0,0
+1483306235848,133,602 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,133,0
+1483306235982,360,601 /h-mississauga-peel-region/1700276,200,OK,KIJIJI Token Setup 1-1,text,true,,17325,1,1,201,0
+1483306236343,299,603 /plsr/mpe/0/KIJI/9,200,OK,KIJIJI Token Setup 1-1,text,true,,945,1,1,285,0
+1483306236644,271,604 /j-homepage-gallery.json,200,OK,KIJIJI Token Setup 1-1,text,true,,9558,1,1,150,0
+1483306236916,143,605 /event,200,OK,KIJIJI Token Setup 1-1,text,true,,1561,1,1,143,0
+1483306237061,157,608 /j-recently-viewed,200,OK,KIJIJI Token Setup 1-1,text,true,,319,1,1,157,0
+1483306237219,142,610 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,142,0
+1483306237363,363,609 /j-page-view.json,200,OK,KIJIJI Token Setup 1-1,,true,,118,1,1,363,0
+1483306237728,131,611 /action/0,204,No Content,KIJIJI Token Setup 1-1,,true,,373,1,1,0,0
+1483306237861,196,612 /action-uic/0,204,No Content,KIJIJI Token Setup 1-1,,true,,242,1,1,0,0
+1483306238058,75,614 /b,204,No Content,KIJIJI Token Setup 1-1,,true,,248,1,1,0,0
+1483306238135,155,613 /dis/dis.aspx,200,OK,KIJIJI Token Setup 1-1,text,true,,392,1,1,155,0

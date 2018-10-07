@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1.48329E+12,259,TC1 - Download Jmeter,200,OK,Saving Test Result 1-1,text,TRUE,,13060,1,1,258,0
+1.48329E+12,309,TC3 - Jmeter Documentation,200,OK,Saving Test Result 1-1,text,TRUE,,49311,1,1,108,0
+1.48329E+12,202,TC4 - Jmeter Release Notes,200,OK,Saving Test Result 1-1,text,TRUE,,48387,1,1,97,0
+1.48329E+12,0,Debug Sampler,200,OK,Saving Test Result 1-1,text,TRUE,,275,1,1,0,0
+1483294920349,246,TC1 - Download Jmeter,200,OK,Saving Test Result 1-1,text,true,,13060,1,1,237,0
+1483294920605,333,TC3 - Jmeter Documentation,200,OK,Saving Test Result 1-1,text,true,,49311,1,1,105,0
+1483294920944,217,TC4 - Jmeter Release Notes,200,OK,Saving Test Result 1-1,text,true,,48387,1,1,103,0
+1483294921190,1,Debug Sampler,200,OK,Saving Test Result 1-1,text,true,,335,1,1,0,0

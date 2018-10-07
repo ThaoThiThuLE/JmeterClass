@@ -1,0 +1,34 @@
+List of website for homework, practising Jmeter:
++ Week 1:
+www.blazemeter.com
+jmeter.apache.org
++ week 2:
+https://www.clinique.ca/
+lotion
+thaocanada2013@yahoo.com
+thaole
+http://www.thomassabo.com/CA/en_CA/start
+thaocanada2013@yahoo.com
+thaole2013
++ week 3:
+http://jsonplaceholder.typicode.com/
+----------------------------------
+www.kijiji.ca
+honda civic 2010
+thaocanada2013@yahoo.com
+thaole2013
+- page-view.json
+- ca.kijiji.xsrf.token
+token:  "1479391280912.736705fe7f2d77daf8a6d9d81feb4674"
+token:  "(.+?)"
+----------------------------------
+www.clinique.ca
+thaocanada2013@yahoo.com
+thaole
+-----------
+demo.joomlatools.com
+/joomla3/en/docman
+demo
+demo
+
+
